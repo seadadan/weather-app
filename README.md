@@ -1,6 +1,6 @@
 ## Weather App ☁ ☁
 
-![Drag Racing](app.png)
+![](/app.PNG?raw=true)
 
 [Weather app demo link](https://weather-app-returndev.netlify.app/)
 
