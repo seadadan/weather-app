@@ -1,5 +1,6 @@
 ## Weather App ☁ ☁
 
+For this task i want the output to be like this 👇🏾
 ![](/app.PNG?raw=true)
 
 [Weather app demo link](https://weather-app-returndev.netlify.app/)
