@@ -1,5 +1,7 @@
 ## Weather App ☁ ☁
 
+![Drag Racing](app.png)
+
 [Weather app demo link](https://weather-app-returndev.netlify.app/)
 
 We will be making a Weather application!
